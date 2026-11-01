@@ -1,6 +1,11 @@
+@font-face {
+    font-family: "Redaction";
+    src: url("fonts/Redaction-Regular.ttf") format("truetype");
+}
+
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "Redaction", sans-serif;
     padding: 0;
     color: Black;
 }
