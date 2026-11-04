@@ -4,7 +4,7 @@
 
 [Link to website](https://users.metropolia.fi/~tuomakhy/ohjelmisto2/webdev/)
 
-[Link to screenshots](https://users.metropolia.fi/~tuomakhy/webdev/ohjelmisto2/results.html)
+[Link to screenshots](https://users.metropolia.fi/~tuomakhy/ohjelmisto2/webdev/results.html)
 
 ---
 
