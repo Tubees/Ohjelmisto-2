@@ -69,7 +69,7 @@ Completed assignments:
 
 ### JS module 5
 
-[My link to flask server mod folder at users.metropolia.fi](https://users.metropolia.fi/~tuomakhy/ohjelmisto2/js5)
+[My link to js mod 5 folder at users.metropolia.fi](https://users.metropolia.fi/~tuomakhy/ohjelmisto2/js5)
 
 Completed assignments:
 
